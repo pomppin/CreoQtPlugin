@@ -1,0 +1,24 @@
+﻿Function
+菜单
+#
+#
+
+FirstButton
+A按钮
+#
+#
+
+SecondButton
+B按钮
+#
+#
+
+this button will show a message
+菜单提示信息
+#
+#
+
+show first button
+show first button
+#
+#
